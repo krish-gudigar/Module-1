@@ -1,5 +1,5 @@
 import java.util.*;
-class Program5Greetings {
+class Program05Greetings {
     public static void main(String[] args){
         Scanner sc= new Scanner(System.in);
         System.out.println("enter your name");
@@ -13,4 +13,5 @@ class Program5Greetings {
     }
     
 }
+
 
