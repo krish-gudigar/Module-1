@@ -1,5 +1,5 @@
 import java.util.*;
-class Program2{
+class Program2checkPositiveNegative{
     public static void main (String []args){
         Scanner sc=new Scanner(System.in);
 
@@ -16,3 +16,4 @@ class Program2{
     }
 
 }
+
