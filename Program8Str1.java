@@ -1,4 +1,4 @@
-public class Str {
+public class Program8Str1 {
     public static void main(String[]args){
         String a="Hello";
         String b="hello";
@@ -19,3 +19,4 @@ public class Str {
     }
     
 }
+
