@@ -1,5 +1,5 @@
 import java.util.*;
-class Str3{
+class Program10Str3PalindromeReversed{
     public static void main(String[]args){
         Scanner sc=new Scanner(System.in);
         System.out.println("enter a String");
@@ -26,4 +26,5 @@ class Str3{
         sc.close();
     }
 }
+
 
