@@ -1,4 +1,4 @@
-public class Program8Str1 {
+public class Program08Str1 {
     public static void main(String[]args){
         String a="Hello";
         String b="hello";
@@ -19,4 +19,5 @@ public class Program8Str1 {
     }
     
 }
+
 
