@@ -1,5 +1,5 @@
 import java.util.*;
-class Str2 {
+class Program9Str2 {
     public static void main(String[]args){
         Scanner sc=new Scanner (System.in);
         System.out.println("enter the two strings");
@@ -21,6 +21,7 @@ class Str2 {
         }
         sc.close();
     }
+
 
 
 }
