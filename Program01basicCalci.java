@@ -1,5 +1,5 @@
 import java.util.*;
-class Program1basicCalci{
+class Program01basicCalci{
     public static void main(String[]args){
         Scanner sc=new Scanner(System.in);
         System.out.println("enter 2 numbers");
@@ -18,5 +18,6 @@ class Program1basicCalci{
         sc.close();
     }
 }
+
 
 
