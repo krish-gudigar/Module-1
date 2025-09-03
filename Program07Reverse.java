@@ -1,5 +1,5 @@
 import java.util.*;
-public class Program7Reverse {
+public class Program07Reverse {
     public static void main(String[] args) {
         Scanner s=new Scanner(System.in);
         System.out.println("Enter a number");
@@ -16,4 +16,5 @@ public class Program7Reverse {
     }
     
 }
+
 
