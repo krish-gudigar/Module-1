@@ -1,4 +1,4 @@
-class Program3{
+class Program3Array{
     public static void main(String[]args){
         int n[]=new int[5];
         n[0]=1;
@@ -10,4 +10,5 @@ class Program3{
         System.out.println(n[4]);
 
     }
+
 }
