@@ -1,5 +1,5 @@
 import java.util.*;
- class Program4EvenOdd {
+ class Program04EvenOdd {
     public static void main(String[] args){
         Scanner sc=new Scanner(System.in);
         System.out.println("enter a number :");
@@ -13,5 +13,6 @@ import java.util.*;
       
     }    
 }
+
 
 
